@@ -61,4 +61,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Thank you for choosing 🚀 WHEN MOON 🌕 WHEN LAMBO 🔥 Validator. Together, we can achieve great things in the Cosmos ecosystem. Earn rewards now!
 
-![Moon and Lambo](https://path-to-your-image/moon-lambo.png)
