@@ -38,7 +38,7 @@ To start earning rewards and benefit from our specialized services, visit our [l
 
 Join our vibrant community on Discord for support and updates. We are here to help you maximize your rewards and ensure a seamless experience with our validator services.
 
-[![Discord](https://img.shields.io/discord/123456789012345678?label=Join%20Us%20on%20Discord&logo=discord&style=for-the-badge)](https://links.whenmoonwhenlambo.money/)
+[![Discord](https://img.shields.io/discord/123456789012345678?label=Join%20Us%20on%20Discord&logo=discord&style=for-the-badge)](https://discord.com/invite/mhF5aAbTck)
 
 ## Stay Connected
 
