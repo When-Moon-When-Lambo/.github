@@ -1,8 +1,8 @@
 # 🚀 WHEN MOON 🌕 WHEN LAMBO 🔥 Validator
 
-Welcome to the When Moon When Lambo Validator repository! We are a highly specialized validator dedicated to providing top-notch services and maximizing rewards for our delegators. 
+Welcome to the **🚀 WHEN MOON 🌕 WHEN LAMBO 🔥 Validator** repository! We are a highly specialized validator dedicated to providing top-notch services and maximizing rewards for our delegators.
 
-## Services Offered
+## 🚀 Services Offered
 
 - **High Availability (HA)**: Ensuring 24/7 uptime and reliability.
 - **Horcrux Security**: Advanced security measures to protect your assets.
@@ -13,7 +13,7 @@ Welcome to the When Moon When Lambo Validator repository! We are a highly specia
 - **Docker/Bare Metal Support**: Flexible infrastructure solutions.
 - **Discord Support**: Engaged and responsive community support.
 
-## Validator Descriptions
+## 🏆 Validator Descriptions
 
 ### Elite Validator
 High Availability, Horcrux Security, Auto-Stake, Reliable Relayer, Cosmovisor, Hourly Snapshots, Docker/Bare Metal, Discord Support | Maximize Rewards!
@@ -30,29 +30,35 @@ Always On (HA), Horcrux, Auto-Stake, Effective Relaying, Auto-Upgrades, Hourly S
 ### High-Performance Validator
 Superior Uptime, Horcrux, Auto-Restake, Reliable Relayer, Seamless Upgrades, Regular Snapshots, Docker/Bare Metal, Discord | Max Returns!
 
-## Get Started
+## 🌐 Get Started
 
 To start earning rewards and benefit from our specialized services, visit our [link page](https://links.whenmoonwhenlambo.money/) for more information and detailed guides.
 
-## Contact Us
+## 📞 Contact Us
 
 Join our vibrant community on Discord for support and updates. We are here to help you maximize your rewards and ensure a seamless experience with our validator services.
 
 [![Discord](https://img.shields.io/discord/123456789012345678?label=Join%20Us%20on%20Discord&logo=discord&style=for-the-badge)](https://discord.com/invite/mhF5aAbTck)
 
-## Stay Connected
+## 📱 Stay Connected
 
 Stay connected and follow us for the latest updates and news.
 
-- [Twitter](https://links.whenmoonwhenlambo.money/)
-- [Medium](https://links.whenmoonwhenlambo.money/)
-- [GitHub](https://links.whenmoonwhenlambo.money/)
-- [Website](https://links.whenmoonwhenlambo.money/)
+- [Explorer](https://explorer.whenmoonwhenlambo.money/)
+- [REstake](https://restake.app/)
+- [Discord](https://discord.gg/mhF5aAbTck)
+- [Network Status](https://uptime.whenmoonwhenlambo.money/)
+- [GitHub](https://github.com/When-Moon-When-Lambo)
+- [Twitter](https://twitter.com/moonwhenlambo)
+- [TikTok](https://www.tiktok.com/@when_moon_when_lambo)
+- [Email](mailto:woelig359@gmail.com)
 
-## License
+## 📜 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-Thank you for choosing When Moon When Lambo Validator. Together, we can achieve great things in the Cosmos ecosystem. Earn rewards now!
+Thank you for choosing 🚀 WHEN MOON 🌕 WHEN LAMBO 🔥 Validator. Together, we can achieve great things in the Cosmos ecosystem. Earn rewards now!
+
+![Moon and Lambo](https://path-to-your-image/moon-lambo.png)
