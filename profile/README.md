@@ -1,4 +1,4 @@
-# When Moon When Lambo Validator
+# 🚀 WHEN MOON 🌕 WHEN LAMBO 🔥 Validator
 
 Welcome to the When Moon When Lambo Validator repository! We are a highly specialized validator dedicated to providing top-notch services and maximizing rewards for our delegators. 
 
