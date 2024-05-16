@@ -36,10 +36,6 @@ Stay connected and follow us for the latest updates and news.
 - [TikTok](https://www.tiktok.com/@when_moon_when_lambo)
 - [Email](mailto:woelig359@gmail.com)
 
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
 
 Thank you for choosing 🚀 WHEN MOON 🌕 WHEN LAMBO 🔥 Validator. Together, we can achieve great things in the Cosmos ecosystem. Earn rewards now!
