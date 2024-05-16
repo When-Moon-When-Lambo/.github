@@ -1,4 +1,4 @@
-![Top Image](top.png)
+![Top Image](https://github.com/When-Moon-When-Lambo/.github/raw/main/profile/top.png)
 # 🚀 WHEN MOON 🌕 WHEN LAMBO 🔥 Validator
 
 Welcome to the **🚀 WHEN MOON 🌕 WHEN LAMBO 🔥 Validator** repository! We are a highly specialized validator dedicated to providing top-notch services and maximizing rewards for our delegators.
